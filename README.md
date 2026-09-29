@@ -25,24 +25,15 @@ Each flag is constructed using C++ code rather than imported image files.
 
 | No. | Country | Key Graphics Concepts |
 |-----|---------|-----------------------|
-| 1 | Bangladesh | Rectangle, Circle |
+| 1 | Canada | Rectangle, Triangle |
 | 2 | United States | Rectangles, Lines, Stars |
-| 3 | Croatia | Rectangles, Polygon |
-| 4 | Japan | Rectangle, Circle |
-| 5 | France | Rectangles |
-| 6 | Germany | Rectangles |
+| 3 | Cape Verde | Rectangles, Polygon |
+| 4 | Ghana | Rectangle, Circle |
+| 5 | Haiti | Rectangles |
+| 6 | South Africa | Rectangles |
+| 7 | Morocco | Rectangles, Line Loop |
+| 6 | New Zealand | Rectangles |
 
-## Controls
-
-| Key | Flag |
-|-----|------|
-| `1` | Bangladesh |
-| `2` | United States |
-| `3` | Croatia |
-| `4` | Japan |
-| `5` | France |
-| `6` | Germany |
-| `ESC` | Exit |
 
 ## Technologies
 
@@ -50,14 +41,3 @@ Each flag is constructed using C++ code rather than imported image files.
 - OpenGL
 - GLUT / FreeGLUT
 - Visual Studio
-
-## Project Structure
-
-```text
-OpenGL-Country-Flags/
-├── main.cpp
-├── flags/
-├── include/
-├── screenshots/
-├── README.md
-└── LICENSE
